@@ -3,7 +3,7 @@
 ## Instructions
 
 
-rainbow = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"] 
+rainbow = ["R", "O", "Y", "G", "B", "I", "V"] 
 
 
 
