@@ -3,8 +3,7 @@
 ## Instructions
 
 
-colors = ["R", "O", "Y", "G", "B", "I", "V"] 
-
+colors = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
 
 
 
