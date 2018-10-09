@@ -3,13 +3,13 @@
 ## Instructions
 
 
-colors = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
+colors = ["R", "O", "Y", "G", "B", "I", "V"]
 
 
 
 
 def display_rainbow(colors)
 
-  puts "#{color[0]}, #{color[1]}, #{color[2]}, #{color[3]}, #{color[4]}, #{color[5]}, #{color[6]}, #{color[7]}"
+  puts "red: #{color[0]}, orange = #{color[1]}, yellow = #{color[2]}, green = #{color[3]}, blue = #{color[4]}, indigo = #{color[5]}, violet = #{color[6]}"
  
 end
