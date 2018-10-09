@@ -4,7 +4,7 @@
 
 
 
-rainbow = [R, O, Y, G, B, I, V]
+rainbow = [red, orange, yellow, green, blue, indigo, violet]
 
 
 
