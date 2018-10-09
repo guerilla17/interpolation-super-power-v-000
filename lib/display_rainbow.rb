@@ -11,7 +11,6 @@ colors = ["R", "O", "Y", "G", "B", "I", "V"]
 
 def display_rainbow(colors)
 
-  puts "R: #{color[0]}, O: #{color[1]},
-  orange: #{O}, yellow: #{Y}, green: #{G}. blue: #{B}. indigo: #{I}, violet: #{V}"
-  
+  puts "R: #{color[0]}, O: #{color[1]}, Y: #{color[2]}, G: #{color[3]}, B: #{color[4]}, I: #{color[5]}, V: #{color[6]}, O: #{color[7]}"
+ 
 end
