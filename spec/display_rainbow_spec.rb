@@ -23,6 +23,6 @@ describe '#display_rainbow' do
   end
 end
 
-rainbow = 
+
 
 
