@@ -3,13 +3,13 @@
 ## Instructions
 
 
-rainbow = ["R", "O", "Y", "G", "B", "I", "V"] 
+colors = ["R", "O", "Y", "G", "B", "I", "V"] 
 
 
 
 
 
-def display_rainbow
+def display_rainbow(colors)
 
   puts "red: #{R}, orange: #{O}, yellow: #{Y}, green: #{G}. blue: #{B}. indigo: #{I}, violet: #{V}"
   
